@@ -1,5 +1,5 @@
 {
   "default": {
-    "co-ecs": { "baseline": "1.0.0", "port-version": 0 },
+    "co-ecs": { "baseline": "1.0.0", "port-version": 0 }
   }
 }
