@@ -1,5 +1,5 @@
 {
-	"name": "co_ecs",
+	"name": "co-ecs",
 	"version": "1.0.0",
 	"description": "Archetype based Entity Component System",
 	"homepage": "https://github.com/Blyschak/cobalt-ecs"
