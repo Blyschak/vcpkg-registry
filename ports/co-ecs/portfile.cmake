@@ -2,6 +2,7 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO Blyschak/cobalt-ecs
 	REF 0adbf7b49d30f0120557b06b540461481f0aab5d
+	SHA512 0
 	HEAD_REF main
 )
 
